@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LouiseBjerrum
+- 👀 I’m interested in R programming and quantitative data analysis
+- 🌱 My favorite R packages: {dplyr} and {ggplot2} 
+- 📫 How to reach me: louise.bjerrum92[at]gmail.com
+- 😄 Pronouns: she/her
