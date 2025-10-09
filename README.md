@@ -3,4 +3,3 @@
 - 🌱 My favorite R packages: {dplyr}, {ggplot2}, and various packages in the {easystats} ecosystem
 - 📫 How to reach me: louise.bjerrum92[at]gmail.com
 - 😄 Pronouns: she/her
-- 💙 Bluesky: [at]louisebjerrum
