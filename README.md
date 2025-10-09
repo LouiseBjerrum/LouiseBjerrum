@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LouiseBjerrum
-- 👀 I’m interested in R programming and quantitative data analysis
-- 🌱 My favorite R packages: {dplyr} and {ggplot2} 
+- 👀 I’m interested in R programming, statistics, chronobiology, and medical registry data
+- 🌱 My favorite R packages: {dplyr}, {ggplot2}, and various packages in the {easystats} ecosystem
 - 📫 How to reach me: louise.bjerrum92[at]gmail.com
 - 😄 Pronouns: she/her
+- 💙 Bluesky: @louisebjerrum
