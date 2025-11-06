@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LouiseBjerrum
 - 👀 I’m interested in R programming, statistics, chronobiology, and medical registry data
+- 📊 Currently working as an advisor in data analysis and statistics, and I'm finishing up my PhD in cognitive psychology
 - 🌱 My favorite R packages: {dplyr}, {ggplot2}, and various packages in the {easystats} ecosystem
 - 📫 How to reach me: louise.bjerrum92[at]gmail.com
 - 😄 Pronouns: she/her
